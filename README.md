@@ -24,3 +24,9 @@ To install the necessary packages, you can use:
 
 ```bash
 uv pip install
+```
+
+To run the analysis 
+```bash
+uv run autolysis.py <your_file.csv>
+
